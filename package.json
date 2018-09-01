@@ -1,6 +1,6 @@
 {
   "name": "ip4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get local ip(v4)",
   "main": "index.js",
   "scripts": {
