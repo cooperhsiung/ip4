@@ -1,0 +1,24 @@
+{
+  "name": "ip4",
+  "version": "1.0.0",
+  "description": "Get local ip(v4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooperhsiung/ip4.git"
+  },
+  "keywords": [
+    "ip",
+    "v4",
+    "local"
+  ],
+  "author": "Cooper Xiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cooperhsiung/ip4/issues"
+  },
+  "homepage": "https://github.com/cooperhsiung/ip4#readme"
+}
