@@ -14,7 +14,7 @@ npm i ip4 -S
 
 ```javascript
 const ip = require('ip4');
-console.log(ip);
+console.log(ip); // 192.168.1.2
 ```
 
 ## License
